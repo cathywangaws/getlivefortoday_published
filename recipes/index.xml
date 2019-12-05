@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes on Live for Today</title>
+    <link>/recipes/</link>
+    <description>Recent content in Recipes on Live for Today</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2019 14:06:20 -0600</lastBuildDate>
+    
+	<atom:link href="/recipes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Soup_Homemade</title>
+      <link>/recipes/soup_homemade/</link>
+      <pubDate>Mon, 25 Nov 2019 14:06:20 -0600</pubDate>
+      
+      <guid>/recipes/soup_homemade/</guid>
+      <description>I always like soup so I always like to make soup by myself. Because in this way, I will know what ingredients are in my soup. I try to not use high fat items in soup, such as cream, butter etc. My soup is always light with less salt too.
+Fish Maw Soup Made this soup with canned sweet corn, fish maw, and egg white.
+Fish maw is a good source of collagen, which is vital in healthy skin beauty in all age group of either gender.</description>
+    </item>
+    
+    <item>
+      <title>Drink_Homemade</title>
+      <link>/recipes/drink_homemade/</link>
+      <pubDate>Mon, 25 Nov 2019 13:52:08 -0600</pubDate>
+      
+      <guid>/recipes/drink_homemade/</guid>
+      <description>Simple homemade drink without sugar. Can add honey if you have a sweet tooth.
+This time I added some turmeric powder. Turmeric, sometimes called Indian saffron or the golden spice.
+Positive side effects
+While turmeric is a spice, it has also traditionally been used in Chinese medicine to treat inflammatory conditions, skin diseases, wounds, digestive,and liver conditions.
+Anti-inflammatory properties
+The Arthritis Foundation cites several studies in which turmeric has reduced inflammation.</description>
+    </item>
+    
+    <item>
+      <title>Porridge</title>
+      <link>/recipes/porridge/</link>
+      <pubDate>Mon, 25 Nov 2019 13:48:14 -0600</pubDate>
+      
+      <guid>/recipes/porridge/</guid>
+      <description>Congee is a type of rice porridge that is popular in many Asian countries, especially East Asia. When eaten as plain rice congee, it is most often served with side dishes.
+Pumpkin porridge
+Sweet potato porridge
+Taro and purple rice porridge
+Green bean, red bean, and black bean porridge. Good for hot and humid summer to get rid of wetness from your body. Pressure cook for 2 hours.</description>
+    </item>
+    
+    <item>
+      <title>Rice_with_sausage</title>
+      <link>/recipes/rice_with_sausage/</link>
+      <pubDate>Mon, 25 Nov 2019 13:42:04 -0600</pubDate>
+      
+      <guid>/recipes/rice_with_sausage/</guid>
+      <description>Rice is important for asian. Just like bread is import for Europen. However, they both have carbs and not really good for diet because they will convert to suger in your body and it may cause diabete problem. So now there are a lot of North American people are skipping carbs.</description>
+    </item>
+    
+  </channel>
+</rss>

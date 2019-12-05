@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Europes on Live for Today</title>
+    <link>/europe/</link>
+    <description>Recent content in Europes on Live for Today</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2019 09:06:52 -0600</lastBuildDate>
+    
+	<atom:link href="/europe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>God’s Back Garden – the Dolomites, Italy</title>
+      <link>/europe/eu_italy_dolomites/</link>
+      <pubDate>Thu, 05 Dec 2019 09:06:52 -0600</pubDate>
+      
+      <guid>/europe/eu_italy_dolomites/</guid>
+      <description>God’s Back Garden – the Dolomites, Italy
+The Dolomites in the North of Italy boast some of the mightiest granite peaks of Europe. This region is home to a spectacular road that provides both exhilarating and scenic driving.
+The breathtaking region around the Dolomites of Italy is one of the most beautiful places on earth. We visited it in October which the fall color was changing that made our road trip more romantic.</description>
+    </item>
+    
+    <item>
+      <title>The Temple of the Sea - Monaco</title>
+      <link>/europe/monaco/</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/europe/monaco/</guid>
+      <description>The Principality of Monaco is about 15km (9.3 miles) from the state border with Italy. The city is a resort for tourists and a tax haven for businesses. It is a small country so you can visit it in few hours because the whole state is not larger than 2 square kilometers which is half size of New York&amp;rsquo;s Central Park. We played by ear in this small charm country at Nov 17, 2017.</description>
+    </item>
+    
+  </channel>
+</rss>
