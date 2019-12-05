@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/europe/</loc>
-    <lastmod>2019-12-05T09:06:52-06:00</lastmod>
+    <loc>/europe/eu_scotland_highlands/</loc>
+    <lastmod>2019-12-05T14:09:01-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/europe/eu_italy_dolomites/</loc>
-    <lastmod>2019-12-05T09:06:52-06:00</lastmod>
+    <loc>/europe/</loc>
+    <lastmod>2019-12-05T14:09:01-06:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2019-12-05T14:09:01-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/europe/eu_italy_dolomites/</loc>
     <lastmod>2019-12-05T09:06:52-06:00</lastmod>
   </url>
   
