@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/europe/eu_austria_hallstatt/</loc>
-    <lastmod>2019-12-06T09:32:58-06:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2019-12-06T10:26:01-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/canada_on_windsor/</loc>
+    <lastmod>2019-12-06T10:26:01-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-06T10:26:01-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/</loc>
+    <lastmod>2019-12-06T10:26:01-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/nationalparks/us_wy_yellowstone_bison/</loc>
+    <lastmod>2019-12-06T10:22:22-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/nationalparks/</loc>
+    <lastmod>2019-12-06T10:22:22-06:00</lastmod>
   </url>
   
   <url>
     <loc>/europe/</loc>
-    <lastmod>2019-12-06T09:32:58-06:00</lastmod>
+    <lastmod>2019-12-06T10:08:04-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/europe/eu_croatia_dubrovnik/</loc>
+    <lastmod>2019-12-06T10:08:04-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/europe/eu_austria_hallstatt/</loc>
     <lastmod>2019-12-06T09:32:58-06:00</lastmod>
   </url>
   
@@ -24,11 +54,6 @@
   
   <url>
     <loc>/travel/asia_china_beijing/</loc>
-    <lastmod>2019-11-27T10:17:52-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/travel/</loc>
     <lastmod>2019-11-27T10:17:52-06:00</lastmod>
   </url>
   
@@ -93,8 +118,18 @@
   </url>
   
   <url>
+    <loc>/nationalparks/us_wy_yellowstone_geysers/</loc>
+    <lastmod>2019-08-30T10:16:04-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/travel/us_ny_manhattan/</loc>
     <lastmod>2019-07-04T15:30:35-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/nationalparks/us_co_rockymountain_tundra/</loc>
+    <lastmod>2019-06-29T10:28:51-06:00</lastmod>
   </url>
   
   <url>
@@ -119,10 +154,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>
