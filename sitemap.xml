@@ -3,23 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/europe/eu_scotland_edinburgh/</loc>
-    <lastmod>2019-12-05T14:31:51-06:00</lastmod>
+    <loc>/europe/eu_austria_hallstatt/</loc>
+    <lastmod>2019-12-06T09:32:58-06:00</lastmod>
   </url>
   
   <url>
     <loc>/europe/</loc>
-    <lastmod>2019-12-05T14:31:51-06:00</lastmod>
+    <lastmod>2019-12-06T09:32:58-06:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-12-05T14:31:51-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/europe/eu_scotland_highlands/</loc>
-    <lastmod>2019-12-05T14:09:01-06:00</lastmod>
+    <lastmod>2019-12-06T09:32:58-06:00</lastmod>
   </url>
   
   <url>
@@ -100,6 +95,16 @@
   <url>
     <loc>/travel/us_ny_manhattan/</loc>
     <lastmod>2019-07-04T15:30:35-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/europe/eu_scotland_highlands/</loc>
+    <lastmod>2018-07-07T14:09:01-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/europe/eu_scotland_edinburgh/</loc>
+    <lastmod>2018-07-06T14:31:51-06:00</lastmod>
   </url>
   
   <url>
