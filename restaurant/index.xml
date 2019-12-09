@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Restaurants on Live for Today</title>
+    <link>/restaurant/</link>
+    <description>Recent content in Restaurants on Live for Today</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Dec 2019 15:32:44 -0600</lastBuildDate>
+    
+	<atom:link href="/restaurant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meet Fresh Dessert Restaurnat</title>
+      <link>/restaurant/meetfresh/</link>
+      <pubDate>Mon, 09 Dec 2019 15:32:44 -0600</pubDate>
+      
+      <guid>/restaurant/meetfresh/</guid>
+      <description>Meet Fresh Dessert Restaurnat 鮮芋仙
+Meet Fresh is a Taiwanese dessert restaurant chain, with locations in Asia, Australia, New Zealand, Canada and the United States. Corporate headquarters are in New Taipei City. Founded in 2007, the chain specializes in fresh Taiwanese desserts, including soft taro balls and herbed jelly.
+Bottom is shaved ice. Authentic Taiwanese exquisite desserts
+Sister and Brother Fu grew up in a family which has been farming for generations in the Feng Yuan District of Taichung, Taiwan.</description>
+    </item>
+    
+    <item>
+      <title>Din Tai Fung</title>
+      <link>/restaurant/din_tai_fung/</link>
+      <pubDate>Mon, 09 Dec 2019 15:15:35 -0600</pubDate>
+      
+      <guid>/restaurant/din_tai_fung/</guid>
+      <description>Din Tai Feng Restaurant 鼎泰豐
+Din Tai Fung is a Taiwanese restaurant franchise, specialising in Huaiyang cuisine. Outside Taiwan, Din Tai Fung also has branches in Australia, China, Hong Kong, Indonesia, Japan, Macau, Malaysia, Philippines, Singapore, South Korea, United States, Thailand, UK and the UAE. It is a world-renowned Taiwanese restaurant that specializes in soup dumplings and noodles.
+Xiao Long Bao is their signature food.
+              </description>
+    </item>
+    
+  </channel>
+</rss>

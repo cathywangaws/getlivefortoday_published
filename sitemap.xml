@@ -3,37 +3,112 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-<<<<<<< HEAD
-    <loc>/others/cathysummary/</loc>
-    <lastmod>2019-12-09T11:18:50-06:00</lastmod>
-=======
-    <loc>/recipes/appertizer_salsa/</loc>
-    <lastmod>2019-12-08T20:57:40-06:00</lastmod>
->>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
+    <loc>/europe/</loc>
+    <lastmod>2019-12-09T15:57:57-06:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-<<<<<<< HEAD
-    <lastmod>2019-12-09T11:18:50-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/others/</loc>
-    <lastmod>2019-12-09T11:18:50-06:00</lastmod>
-=======
-    <lastmod>2019-12-08T20:57:40-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/recipes/</loc>
-    <lastmod>2019-12-08T20:57:40-06:00</lastmod>
->>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
+    <lastmod>2019-12-09T15:57:57-06:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-<<<<<<< HEAD
+    <lastmod>2019-12-09T15:57:57-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/europe/eu_uk_london_towerbridge/</loc>
+    <lastmod>2019-12-09T15:57:57-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/europe/eu_uk_london/</loc>
+    <lastmod>2019-12-09T15:54:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/restaurant/meetfresh/</loc>
+    <lastmod>2019-12-09T15:32:44-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/restaurant/</loc>
+    <lastmod>2019-12-09T15:32:44-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/restaurant/din_tai_fung/</loc>
+    <lastmod>2019-12-09T15:15:35-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/us_ca_antelopevalley/</loc>
+    <lastmod>2019-12-09T15:12:38-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/</loc>
+    <lastmod>2019-12-09T15:12:38-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/nationalparks/us_co_gardenofthegods/</loc>
+    <lastmod>2019-12-09T15:01:05-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/nationalparks/</loc>
+    <lastmod>2019-12-09T15:01:05-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/nationalparks/us_wy_grandteton/</loc>
+    <lastmod>2019-12-09T14:50:48-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/</loc>
+    <lastmod>2019-12-09T14:31:14-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/song_starrynight/</loc>
+    <lastmod>2019-12-09T14:31:14-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/movie_greenbook/</loc>
+    <lastmod>2019-12-09T14:24:16-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/tvshow_gameofthrones/</loc>
+    <lastmod>2019-12-09T14:19:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/leadership/</loc>
+    <lastmod>2019-12-09T13:46:24-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/sunworshippingplants/</loc>
+    <lastmod>2019-12-09T13:41:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/365miles/</loc>
+    <lastmod>2019-12-09T12:54:25-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/bookreading/</loc>
+    <lastmod>2019-12-09T11:59:07-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/cathysummary/</loc>
     <lastmod>2019-12-09T11:18:50-06:00</lastmod>
   </url>
   
@@ -49,8 +124,6 @@
   
   <url>
     <loc>/recipes/</loc>
-=======
->>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
     <lastmod>2019-12-08T20:57:40-06:00</lastmod>
   </url>
   
@@ -70,36 +143,18 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>/recipes/salad/</loc>
     <lastmod>2019-12-06T13:48:24-06:00</lastmod>
   </url>
   
   <url>
-=======
->>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
     <loc>/travel/canada_on_windsor/</loc>
-    <lastmod>2019-12-06T10:26:01-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/travel/</loc>
     <lastmod>2019-12-06T10:26:01-06:00</lastmod>
   </url>
   
   <url>
     <loc>/nationalparks/us_wy_yellowstone_bison/</loc>
     <lastmod>2019-12-06T10:22:22-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/nationalparks/</loc>
-    <lastmod>2019-12-06T10:22:22-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/europe/</loc>
-    <lastmod>2019-12-06T10:08:04-06:00</lastmod>
   </url>
   
   <url>
@@ -148,14 +203,11 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>/parties/party_soccer_team/</loc>
     <lastmod>2019-11-25T14:40:56-06:00</lastmod>
   </url>
   
   <url>
-=======
->>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
     <loc>/recipes/soup_homemade/</loc>
     <lastmod>2019-11-25T14:06:20-06:00</lastmod>
   </url>
@@ -206,14 +258,6 @@
   </url>
   
   <url>
-<<<<<<< HEAD
-=======
-    <loc>/parties/</loc>
-    <lastmod>2019-04-21T21:08:03-06:00</lastmod>
-  </url>
-  
-  <url>
->>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
     <loc>/europe/eu_scotland_highlands/</loc>
     <lastmod>2018-07-07T14:09:01-06:00</lastmod>
   </url>
@@ -226,6 +270,11 @@
   <url>
     <loc>/travel/asia_china_shenyang01/</loc>
     <lastmod>2018-03-29T14:51:19-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/cathypersonalitems/</loc>
+    <lastmod>2017-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
