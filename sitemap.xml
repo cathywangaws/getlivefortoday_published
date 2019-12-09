@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-12-06T10:26:01-06:00</lastmod>
+    <loc>/recipes/appertizer_salsa/</loc>
+    <lastmod>2019-12-08T20:57:40-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/travel/canada_on_windsor/</loc>
-    <lastmod>2019-12-06T10:26:01-06:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2019-12-08T20:57:40-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/</loc>
+    <lastmod>2019-12-08T20:57:40-06:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2019-12-08T20:57:40-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/appertizer_guacamole/</loc>
+    <lastmod>2019-12-08T20:50:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/seafood_shrimp/</loc>
+    <lastmod>2019-12-08T20:40:55-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/dessert_twolayercake/</loc>
+    <lastmod>2019-12-08T19:33:26-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/canada_on_windsor/</loc>
     <lastmod>2019-12-06T10:26:01-06:00</lastmod>
   </url>
   
@@ -88,11 +113,6 @@
   </url>
   
   <url>
-    <loc>/recipes/</loc>
-    <lastmod>2019-11-25T14:06:20-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/recipes/soup_homemade/</loc>
     <lastmod>2019-11-25T14:06:20-06:00</lastmod>
   </url>
@@ -113,6 +133,11 @@
   </url>
   
   <url>
+    <loc>/recipes/chinese_hot_pot/</loc>
+    <lastmod>2019-11-19T21:54:54-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/travel/us_az_devilsbridge/</loc>
     <lastmod>2019-11-16T21:12:54-06:00</lastmod>
   </url>
@@ -130,6 +155,16 @@
   <url>
     <loc>/nationalparks/us_co_rockymountain_tundra/</loc>
     <lastmod>2019-06-29T10:28:51-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/parties/20190421_lidongbday/</loc>
+    <lastmod>2019-04-21T21:08:03-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/parties/</loc>
+    <lastmod>2019-04-21T21:08:03-06:00</lastmod>
   </url>
   
   <url>
