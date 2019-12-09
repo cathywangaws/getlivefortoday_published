@@ -6,12 +6,17 @@
     <description>Recent content in Parties on Live for Today</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 25 Nov 2019 14:40:56 -0600</lastBuildDate>
+=======
+    <lastBuildDate>Sun, 21 Apr 2019 21:08:03 -0600</lastBuildDate>
+>>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
     
 	<atom:link href="/parties/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>Party_Soccer_Team</title>
       <link>/parties/party_soccer_team/</link>
       <pubDate>Mon, 25 Nov 2019 14:40:56 -0600</pubDate>
@@ -23,6 +28,8 @@ Appetizers: fried tofu &amp;amp; wonton</description>
     </item>
     
     <item>
+=======
+>>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
       <title>Li Dong&#39;s Birthday Party</title>
       <link>/parties/20190421_lidongbday/</link>
       <pubDate>Sun, 21 Apr 2019 21:08:03 -0600</pubDate>

@@ -3,22 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
     <loc>/others/cathysummary/</loc>
     <lastmod>2019-12-09T11:18:50-06:00</lastmod>
+=======
+    <loc>/recipes/appertizer_salsa/</loc>
+    <lastmod>2019-12-08T20:57:40-06:00</lastmod>
+>>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
   </url>
   
   <url>
     <loc>/</loc>
+<<<<<<< HEAD
     <lastmod>2019-12-09T11:18:50-06:00</lastmod>
   </url>
   
   <url>
     <loc>/others/</loc>
     <lastmod>2019-12-09T11:18:50-06:00</lastmod>
+=======
+    <lastmod>2019-12-08T20:57:40-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/</loc>
+    <lastmod>2019-12-08T20:57:40-06:00</lastmod>
+>>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
   </url>
   
   <url>
     <loc>/tags/</loc>
+<<<<<<< HEAD
     <lastmod>2019-12-09T11:18:50-06:00</lastmod>
   </url>
   
@@ -34,6 +49,8 @@
   
   <url>
     <loc>/recipes/</loc>
+=======
+>>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
     <lastmod>2019-12-08T20:57:40-06:00</lastmod>
   </url>
   
@@ -53,11 +70,14 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>/recipes/salad/</loc>
     <lastmod>2019-12-06T13:48:24-06:00</lastmod>
   </url>
   
   <url>
+=======
+>>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
     <loc>/travel/canada_on_windsor/</loc>
     <lastmod>2019-12-06T10:26:01-06:00</lastmod>
   </url>
@@ -128,11 +148,14 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>/parties/party_soccer_team/</loc>
     <lastmod>2019-11-25T14:40:56-06:00</lastmod>
   </url>
   
   <url>
+=======
+>>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
     <loc>/recipes/soup_homemade/</loc>
     <lastmod>2019-11-25T14:06:20-06:00</lastmod>
   </url>
@@ -183,6 +206,14 @@
   </url>
   
   <url>
+<<<<<<< HEAD
+=======
+    <loc>/parties/</loc>
+    <lastmod>2019-04-21T21:08:03-06:00</lastmod>
+  </url>
+  
+  <url>
+>>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
     <loc>/europe/eu_scotland_highlands/</loc>
     <lastmod>2018-07-07T14:09:01-06:00</lastmod>
   </url>

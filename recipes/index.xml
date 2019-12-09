@@ -58,6 +58,7 @@ Frosting:
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>All About Salad</title>
       <link>/recipes/salad/</link>
       <pubDate>Fri, 06 Dec 2019 13:48:24 -0600</pubDate>
@@ -69,6 +70,8 @@ The sweetness of the oranges, the earthy beets, the creamy, satiating avocado ch
     </item>
     
     <item>
+=======
+>>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
       <title>Soup_Homemade</title>
       <link>/recipes/soup_homemade/</link>
       <pubDate>Mon, 25 Nov 2019 14:06:20 -0600</pubDate>

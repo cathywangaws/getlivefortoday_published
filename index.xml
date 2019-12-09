@@ -6,12 +6,17 @@
     <description>Recent content on Live for Today</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 09 Dec 2019 11:18:50 -0600</lastBuildDate>
+=======
+    <lastBuildDate>Sun, 08 Dec 2019 20:57:40 -0600</lastBuildDate>
+>>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>CathySummary</title>
       <link>/others/cathysummary/</link>
       <pubDate>Mon, 09 Dec 2019 11:18:50 -0600</pubDate>
@@ -35,6 +40,8 @@ The trip was smooth even though it was a long international trip from US to Cana
     </item>
     
     <item>
+=======
+>>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
       <title>Appertizer - Salsa</title>
       <link>/recipes/appertizer_salsa/</link>
       <pubDate>Sun, 08 Dec 2019 20:57:40 -0600</pubDate>
@@ -81,6 +88,7 @@ Frosting:
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>All About Salad</title>
       <link>/recipes/salad/</link>
       <pubDate>Fri, 06 Dec 2019 13:48:24 -0600</pubDate>
@@ -92,6 +100,8 @@ The sweetness of the oranges, the earthy beets, the creamy, satiating avocado ch
     </item>
     
     <item>
+=======
+>>>>>>> cad36587fe9197b7eea9514362c3dec411964e8e
       <title>O Canada – Visiting Windsor, Ontario</title>
       <link>/travel/canada_on_windsor/</link>
       <pubDate>Fri, 06 Dec 2019 10:26:01 -0600</pubDate>
