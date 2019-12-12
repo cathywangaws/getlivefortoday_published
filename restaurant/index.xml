@@ -6,10 +6,20 @@
     <description>Recent content in Restaurants on Live for Today</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2019 15:32:44 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2019 10:49:05 -0600</lastBuildDate>
     
 	<atom:link href="/restaurant/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lao Sze Chuan</title>
+      <link>/restaurant/lao_sze_chuan/</link>
+      <pubDate>Thu, 12 Dec 2019 10:49:05 -0600</pubDate>
+      
+      <guid>/restaurant/lao_sze_chuan/</guid>
+      <description>Lao Sze Chuan Address: 520 N Michigan Ave, Chicago IL
+Spicy and salty dishes for me so I am not crazy about this place even though it is a famous restaurant. Spicy and salty dishes for me so I am not crazy about this place even though it is a famous restaurant. Spicy and salty dishes for me so I am not crazy about this place even though it is a famous restaurant.</description>
+    </item>
     
     <item>
       <title>Meet Fresh Dessert Restaurnat</title>
@@ -33,6 +43,19 @@ Sister and Brother Fu grew up in a family which has been farming for generations
 Din Tai Fung is a Taiwanese restaurant franchise, specialising in Huaiyang cuisine. Outside Taiwan, Din Tai Fung also has branches in Australia, China, Hong Kong, Indonesia, Japan, Macau, Malaysia, Philippines, Singapore, South Korea, United States, Thailand, UK and the UAE. It is a world-renowned Taiwanese restaurant that specializes in soup dumplings and noodles.
 Xiao Long Bao is their signature food.
               </description>
+    </item>
+    
+    <item>
+      <title>BBQ_Garden</title>
+      <link>/restaurant/bbq_garden/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/restaurant/bbq_garden/</guid>
+      <description>BBQ Garden
+My friend invited us to her birthday at BBQ Garden this Saturday 6/22/2019. Met few new friends. Also table grilled BBQ was delicious.
+It is buffet style BBQ. You can order as much as you can eat. There are many meat options but my favorite is still beef short ribs.
+They also include sushi and Korean style side dishes. I like this restaurant. I would go back!
+I made the cake for her and everyone likes my cake.</description>
     </item>
     
   </channel>
