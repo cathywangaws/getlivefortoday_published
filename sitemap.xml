@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/cathy/</loc>
+    <lastmod>2019-12-19T12:47:46-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2019-12-19T09:08:54-06:00</lastmod>
+    <lastmod>2019-12-19T12:47:46-06:00</lastmod>
   </url>
   
   <url>
@@ -635,6 +640,11 @@
   <url>
     <loc>/recipes/rice_with_sausage/</loc>
     <lastmod>2019-11-25T13:42:04-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2019-11-19T22:04:54-06:00</lastmod>
   </url>
   
   <url>

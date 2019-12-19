@@ -6,10 +6,20 @@
     <description>Recent content on Live for Today</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Dec 2019 09:08:54 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2019 12:47:46 -0600</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cathy</title>
+      <link>/cathy/</link>
+      <pubDate>Thu, 19 Dec 2019 12:47:46 -0600</pubDate>
+      
+      <guid>/cathy/</guid>
+      <description>MY LIFE, MY TRAVEL
+I will finish my travel blog before I go to next trip in this year. In this way, I can digest what I see and what I think during each trip. I want each of my trips to be memorable. It is just for myself!</description>
+    </item>
     
     <item>
       <title>Topolobampo Mexican Restaurant, Chicago IL</title>
@@ -1399,6 +1409,18 @@ Green bean, red bean, and black bean porridge. Good for hot and humid summer to 
       
       <guid>/recipes/rice_with_sausage/</guid>
       <description>Rice is important for asian. Just like bread is import for Europen. However, they both have carbs and not really good for diet because they will convert to suger in your body and it may cause diabete problem. So now there are a lot of North American people are skipping carbs.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 19 Nov 2019 22:04:54 -0600</pubDate>
+      
+      <guid>/about/</guid>
+      <description>cathy cathy&amp;hellip;
+How to create navigation menus in Hugo https://www.youtube.com/watch?v=E6bhmixcR5k
+RUN WHILE TRAVELING
+Running is good for mind as much as body. Starting a week with a run clears head and leaves happier, more confident, and more positive. Running out is nothing like the drudgery 苦差事 of a treadmill; it’s a way to explore and see places from a new perspective. What has surprised me most is the joy that running can bring me.</description>
     </item>
     
     <item>
