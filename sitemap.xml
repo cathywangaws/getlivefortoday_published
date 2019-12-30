@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/recipes/chinese_diakonpickle/</loc>
+    <lastmod>2019-12-30T12:46:50-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-12-30T12:46:50-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/</loc>
+    <lastmod>2019-12-30T12:46:50-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-30T12:46:50-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/chinese_springroll/</loc>
+    <lastmod>2019-12-30T12:34:36-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/recipes/drink_coffee/</loc>
     <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/recipes/drink_cocktail/</loc>
-    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/recipes/</loc>
-    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url>
   
