@@ -3,22 +3,577 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/recipes/appertizer_salsa/</loc>
-    <lastmod>2019-12-08T20:57:40-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
-    <lastmod>2019-12-08T20:57:40-06:00</lastmod>
+    <lastmod>2020-01-04T22:16:06-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/recipes/</loc>
-    <lastmod>2019-12-08T20:57:40-06:00</lastmod>
+    <loc>/others/</loc>
+    <lastmod>2020-01-04T22:16:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/reading2020/</loc>
+    <lastmod>2020-01-04T22:16:06-06:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2020-01-04T22:16:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/parties/newyeareve_2019/</loc>
+    <lastmod>2020-01-04T21:18:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/parties/</loc>
+    <lastmod>2020-01-04T21:18:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/365miles/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/seafood_scallops/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/reading2019/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/chinese_shaomai/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/food/</loc>
+    <lastmod>2019-12-30T14:46:54-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/chinese_springroll/</loc>
+    <lastmod>2019-12-30T12:34:36-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/chinese_diakonpickle/</loc>
+    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/drink_coffee/</loc>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/drink_cocktail/</loc>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/vegie_cauliflower/</loc>
+    <lastmod>2019-12-28T09:33:57-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/cheese/</loc>
+    <lastmod>2019-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/meat_saltedduck/</loc>
+    <lastmod>2019-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/seafood_paella/</loc>
+    <lastmod>2019-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/seafood_tilapia/</loc>
+    <lastmod>2019-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/restaurant/</loc>
+    <lastmod>2019-12-19T09:08:54-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/restaurant/topolobampo_mexican/</loc>
+    <lastmod>2019-12-19T09:08:54-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/us_ca_sandiego/</loc>
+    <lastmod>2019-12-19T08:49:33-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/</loc>
+    <lastmod>2019-12-19T08:49:33-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/us_nm_santafe/</loc>
+    <lastmod>2019-12-18T16:03:38-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/nationalparks/</loc>
+    <lastmod>2019-12-18T15:57:07-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/nationalparks/us_ca_pointreyes/</loc>
+    <lastmod>2019-12-18T15:57:07-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/seafood_lobster/</loc>
+    <lastmod>2019-12-18T15:52:35-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/appertizer_chickenlettucewrap/</loc>
+    <lastmod>2019-12-18T15:44:24-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/appertizer_couscous/</loc>
+    <lastmod>2019-12-18T15:41:49-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/us_tn_memphis/</loc>
+    <lastmod>2019-12-18T15:09:08-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/seafood_salmon/</loc>
+    <lastmod>2019-12-18T14:57:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/restaurant/mckaysfishandchip/</loc>
+    <lastmod>2019-12-18T14:43:07-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/restaurant/maxiesbistro/</loc>
+    <lastmod>2019-12-18T14:34:37-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/nationalparks/us_nd_theodoreroosevelt/</loc>
+    <lastmod>2019-12-18T14:25:36-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/vacation_201809/</loc>
+    <lastmod>2019-12-18T14:19:49-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/us_washingtondc/</loc>
+    <lastmod>2019-12-18T14:10:28-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/restaurant/torizen/</loc>
+    <lastmod>2019-12-18T14:01:50-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/dessert_applerose/</loc>
+    <lastmod>2019-12-18T13:58:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/restaurant/wirtshaus/</loc>
+    <lastmod>2019-12-18T13:31:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/europe/eu_germany_munich/</loc>
+    <lastmod>2019-12-18T13:29:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/europe/</loc>
+    <lastmod>2019-12-18T13:29:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/restaurant/ginos/</loc>
+    <lastmod>2019-12-18T12:53:05-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/europe/eu_italy_venice/</loc>
+    <lastmod>2019-12-18T12:36:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/nationalparks/us_in_indianadunes/</loc>
+    <lastmod>2019-12-18T12:24:50-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/europe/eu_slovenia_lakebend/</loc>
+    <lastmod>2019-12-18T12:19:14-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/europe/eu_croatia_split/</loc>
+    <lastmod>2019-12-18T12:14:35-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/europe/eu_slovenia_ljubljana/</loc>
+    <lastmod>2019-12-18T12:06:30-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/chinese_beeftendon/</loc>
+    <lastmod>2019-12-18T12:03:24-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/chinese_springpancake/</loc>
+    <lastmod>2019-12-18T12:02:45-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/chinese_mungbeanjellysalad/</loc>
+    <lastmod>2019-12-18T12:01:27-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/dessert_fruits/</loc>
+    <lastmod>2019-12-18T11:56:19-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/dessert_nuts/</loc>
+    <lastmod>2019-12-18T11:52:41-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/dessert_ricecake/</loc>
+    <lastmod>2019-12-18T11:51:41-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/meat_chicken/</loc>
+    <lastmod>2019-12-18T11:49:33-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/nationalparks/us_nv_deathvalley/</loc>
+    <lastmod>2019-12-18T11:24:22-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/us_nv_valleyoffirestatepark/</loc>
+    <lastmod>2019-12-13T10:21:31-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/parties/newyeareve_2017/</loc>
+    <lastmod>2019-12-13T10:17:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/parties/newyeareve_2016/</loc>
+    <lastmod>2019-12-13T10:06:11-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/vegie_woodearsalad/</loc>
+    <lastmod>2019-12-13T10:02:50-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/parties/newyeareve_2013/</loc>
+    <lastmod>2019-12-13T09:59:18-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/parties/newyeareve_2018/</loc>
+    <lastmod>2019-12-13T09:55:29-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/vegie_eggplant/</loc>
+    <lastmod>2019-12-13T09:50:26-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/dessert_redbeanbread/</loc>
+    <lastmod>2019-12-13T09:40:10-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/seafood_mussels/</loc>
+    <lastmod>2019-12-13T09:36:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/seafood_seacucumber/</loc>
+    <lastmod>2019-12-13T09:33:34-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/meat_beefshortribs/</loc>
+    <lastmod>2019-12-13T09:21:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/us_fl_miami/</loc>
+    <lastmod>2019-12-13T09:10:58-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/europe/eu_croatia_plitvicellakesnp/</loc>
+    <lastmod>2019-12-13T09:08:38-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/us_ca_bigsur/</loc>
+    <lastmod>2019-12-13T09:05:39-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/restaurant/spicericethaikitchen/</loc>
+    <lastmod>2019-12-13T08:59:16-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/europe/eu_germany_nuremberg/</loc>
+    <lastmod>2019-12-13T08:56:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/appertizer_porkjellyfish/</loc>
+    <lastmod>2019-12-13T08:54:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/appertizer_bakedgarlicmushroom/</loc>
+    <lastmod>2019-12-13T08:51:29-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/dessert_greenteacake/</loc>
+    <lastmod>2019-12-12T15:04:55-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/dessert_sesamecookie/</loc>
+    <lastmod>2019-12-12T15:00:22-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/restaurant/morton_steakhouse/</loc>
+    <lastmod>2019-12-12T14:57:19-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/restaurant/sam_harry_steakhouse/</loc>
+    <lastmod>2019-12-12T14:52:48-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/chicken_fajitas/</loc>
+    <lastmod>2019-12-12T14:44:35-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/us_tx_sanantonio/</loc>
+    <lastmod>2019-12-12T13:19:58-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/dessert_applestruddle/</loc>
+    <lastmod>2019-12-12T11:29:05-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/vegie_lotusroot/</loc>
+    <lastmod>2019-12-12T10:58:47-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/parties/cookingwithcathy_dumpling/</loc>
+    <lastmod>2019-12-12T10:55:28-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/polaris/</loc>
+    <lastmod>2019-12-12T10:53:05-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/restaurant/lao_sze_chuan/</loc>
+    <lastmod>2019-12-12T10:49:05-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/withkaren/</loc>
+    <lastmod>2019-12-12T10:44:45-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/appertizer_threadedbeancurd/</loc>
+    <lastmod>2019-12-12T10:42:17-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/parties/cookingwithcathy_fondue/</loc>
+    <lastmod>2019-12-12T10:38:24-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/dessert_gelatindessert/</loc>
+    <lastmod>2019-12-12T10:35:24-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/parties/cookingwithcathy_noodle/</loc>
+    <lastmod>2019-12-12T10:32:28-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/japanese_food/</loc>
+    <lastmod>2019-12-12T10:29:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/grill/</loc>
+    <lastmod>2019-12-12T09:27:27-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/noodle/</loc>
+    <lastmod>2019-12-12T09:25:08-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/dessert_mooncake/</loc>
+    <lastmod>2019-12-12T08:46:08-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/dessert_cheesecake/</loc>
+    <lastmod>2019-12-12T08:44:29-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/nationalparks/canada_rockymountains/</loc>
+    <lastmod>2019-12-12T08:41:16-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/parties/cookingwithcathy_kebab/</loc>
+    <lastmod>2019-12-12T08:30:30-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/meetvincent/</loc>
+    <lastmod>2019-12-12T08:00:08-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/us_tx_dallas/</loc>
+    <lastmod>2019-12-09T21:33:57-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/europe/eu_uk_london_towerbridge/</loc>
+    <lastmod>2019-12-09T15:57:57-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/europe/eu_uk_london/</loc>
+    <lastmod>2019-12-09T15:54:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/restaurant/meetfresh/</loc>
+    <lastmod>2019-12-09T15:32:44-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/restaurant/din_tai_fung/</loc>
+    <lastmod>2019-12-09T15:15:35-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/us_ca_antelopevalley/</loc>
+    <lastmod>2019-12-09T15:12:38-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/nationalparks/us_co_gardenofthegods/</loc>
+    <lastmod>2019-12-09T15:01:05-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/nationalparks/us_wy_grandteton/</loc>
+    <lastmod>2019-12-09T14:50:48-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/song_starrynight/</loc>
+    <lastmod>2019-12-09T14:31:14-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/movie_greenbook/</loc>
+    <lastmod>2019-12-09T14:24:16-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/tvshow_gameofthrones/</loc>
+    <lastmod>2019-12-09T14:19:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/leadership/</loc>
+    <lastmod>2019-12-09T13:46:24-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/sunworshippingplants/</loc>
+    <lastmod>2019-12-09T13:41:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/cathysummary/</loc>
+    <lastmod>2019-12-09T11:18:50-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/flyinghome/</loc>
+    <lastmod>2019-12-09T08:46:50-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/appertizer_salsa/</loc>
     <lastmod>2019-12-08T20:57:40-06:00</lastmod>
   </url>
   
@@ -38,28 +593,18 @@
   </url>
   
   <url>
-    <loc>/travel/canada_on_windsor/</loc>
-    <lastmod>2019-12-06T10:26:01-06:00</lastmod>
+    <loc>/recipes/salad/</loc>
+    <lastmod>2019-12-06T13:48:24-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/travel/</loc>
+    <loc>/travel/canada_on_windsor/</loc>
     <lastmod>2019-12-06T10:26:01-06:00</lastmod>
   </url>
   
   <url>
     <loc>/nationalparks/us_wy_yellowstone_bison/</loc>
     <lastmod>2019-12-06T10:22:22-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/nationalparks/</loc>
-    <lastmod>2019-12-06T10:22:22-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/europe/</loc>
-    <lastmod>2019-12-06T10:08:04-06:00</lastmod>
   </url>
   
   <url>
@@ -88,11 +633,6 @@
   </url>
   
   <url>
-    <loc>/others/</loc>
-    <lastmod>2019-11-25T15:21:28-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/others/anniversary/</loc>
     <lastmod>2019-11-25T15:21:28-06:00</lastmod>
   </url>
@@ -108,7 +648,7 @@
   </url>
   
   <url>
-    <loc>/others/party_soccer_team/</loc>
+    <loc>/parties/party_soccer_team/</loc>
     <lastmod>2019-11-25T14:40:56-06:00</lastmod>
   </url>
   
@@ -133,6 +673,11 @@
   </url>
   
   <url>
+    <loc>/about/</loc>
+    <lastmod>2019-11-19T22:04:54-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/recipes/chinese_hot_pot/</loc>
     <lastmod>2019-11-19T21:54:54-06:00</lastmod>
   </url>
@@ -148,6 +693,11 @@
   </url>
   
   <url>
+    <loc>/parties/chunhuangcooking_20190810/</loc>
+    <lastmod>2019-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/travel/us_ny_manhattan/</loc>
     <lastmod>2019-07-04T15:30:35-06:00</lastmod>
   </url>
@@ -158,13 +708,18 @@
   </url>
   
   <url>
+    <loc>/restaurant/bbq_garden/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/parties/20190421_lidongbday/</loc>
     <lastmod>2019-04-21T21:08:03-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parties/</loc>
-    <lastmod>2019-04-21T21:08:03-06:00</lastmod>
+    <loc>/parties/party_chinese_crab/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -183,8 +738,18 @@
   </url>
   
   <url>
+    <loc>/others/cathypersonalitems/</loc>
+    <lastmod>2017-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/europe/monaco/</loc>
     <lastmod>2017-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/israel_jerusalem/</loc>
+    <lastmod>2013-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
