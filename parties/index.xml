@@ -6,12 +6,17 @@
     <description>Recent content in Parties on Live for Today</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Sat, 04 Jan 2020 21:18:46 -0600</lastBuildDate>
+=======
+    <lastBuildDate>Fri, 13 Dec 2019 10:17:46 -0600</lastBuildDate>
+>>>>>>> e2ae766308cde03cbdd6f340869c1c952b395778
     
 	<atom:link href="/parties/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>New Year Eve 2019</title>
       <link>/parties/newyeareve_2019/</link>
       <pubDate>Sat, 04 Jan 2020 21:18:46 -0600</pubDate>
@@ -24,6 +29,8 @@ Small appertizer
     </item>
     
     <item>
+=======
+>>>>>>> e2ae766308cde03cbdd6f340869c1c952b395778
       <title>NewYearEve_2017</title>
       <link>/parties/newyeareve_2017/</link>
       <pubDate>Fri, 13 Dec 2019 10:17:46 -0600</pubDate>

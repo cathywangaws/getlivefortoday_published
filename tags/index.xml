@@ -6,7 +6,11 @@
     <description>Recent content in Tags on Live for Today</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Sat, 04 Jan 2020 22:16:06 -0600</lastBuildDate>
+=======
+    <lastBuildDate>Mon, 30 Dec 2019 14:46:54 -0600</lastBuildDate>
+>>>>>>> e2ae766308cde03cbdd6f340869c1c952b395778
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
