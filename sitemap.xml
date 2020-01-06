@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
+    <loc>/</loc>
+    <lastmod>2020-01-04T22:16:06-06:00</lastmod>
+=======
+<<<<<<< HEAD
     <loc>/</loc>
     <lastmod>2020-01-04T22:16:06-06:00</lastmod>
   </url>
@@ -63,13 +68,89 @@
   </url>
   
   <url>
+=======
+    <loc>/food/</loc>
+    <lastmod>2019-12-30T14:46:54-06:00</lastmod>
+>>>>>>> 541ca29edc6082219719d4a06b35441f2753d573
+  </url>
+  
+  <url>
+    <loc>/others/</loc>
+    <lastmod>2020-01-04T22:16:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/reading2020/</loc>
+    <lastmod>2020-01-04T22:16:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-04T22:16:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/parties/newyeareve_2019/</loc>
+    <lastmod>2020-01-04T21:18:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/parties/</loc>
+    <lastmod>2020-01-04T21:18:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/365miles/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/seafood_scallops/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/reading2019/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/chinese_shaomai/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/food/</loc>
+    <lastmod>2019-12-30T14:46:54-06:00</lastmod>
+  </url>
+  
+  <url>
+>>>>>>> e2ae766308cde03cbdd6f340869c1c952b395778
     <loc>/recipes/chinese_springroll/</loc>
     <lastmod>2019-12-30T12:34:36-06:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>/recipes/chinese_diakonpickle/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
+=======
+<<<<<<< HEAD
+    <loc>/recipes/chinese_diakonpickle/</loc>
+    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+=======
+>>>>>>> e2ae766308cde03cbdd6f340869c1c952b395778
+    <loc>/recipes/drink_coffee/</loc>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
+>>>>>>> 541ca29edc6082219719d4a06b35441f2753d573
   </url>
   
   <url>
@@ -78,11 +159,19 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>/recipes/drink_cocktail/</loc>
     <lastmod>2019-12-29T00:00:00+00:00</lastmod>
+=======
+<<<<<<< HEAD
+=======
+    <loc>/recipes/seafood_scallops/</loc>
+    <lastmod>2019-12-28T09:44:02-06:00</lastmod>
+>>>>>>> 541ca29edc6082219719d4a06b35441f2753d573
   </url>
   
   <url>
+>>>>>>> e2ae766308cde03cbdd6f340869c1c952b395778
     <loc>/recipes/vegie_cauliflower/</loc>
     <lastmod>2019-12-28T09:33:57-06:00</lastmod>
   </url>
@@ -183,6 +272,17 @@
   </url>
   
   <url>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    <loc>/others/</loc>
+    <lastmod>2019-12-18T14:19:49-06:00</lastmod>
+  </url>
+  
+  <url>
+>>>>>>> e2ae766308cde03cbdd6f340869c1c952b395778
+>>>>>>> 541ca29edc6082219719d4a06b35441f2753d573
     <loc>/others/vacation_201809/</loc>
     <lastmod>2019-12-18T14:19:49-06:00</lastmod>
   </url>
@@ -298,6 +398,17 @@
   </url>
   
   <url>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    <loc>/parties/</loc>
+    <lastmod>2019-12-13T10:17:46-06:00</lastmod>
+  </url>
+  
+  <url>
+>>>>>>> e2ae766308cde03cbdd6f340869c1c952b395778
+>>>>>>> 541ca29edc6082219719d4a06b35441f2753d573
     <loc>/parties/newyeareve_2016/</loc>
     <lastmod>2019-12-13T10:06:11-06:00</lastmod>
   </url>
@@ -383,6 +494,17 @@
   </url>
   
   <url>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    <loc>/recipes/shaomai/</loc>
+    <lastmod>2019-12-12T15:02:07-06:00</lastmod>
+  </url>
+  
+  <url>
+>>>>>>> e2ae766308cde03cbdd6f340869c1c952b395778
+>>>>>>> 541ca29edc6082219719d4a06b35441f2753d573
     <loc>/recipes/dessert_sesamecookie/</loc>
     <lastmod>2019-12-12T15:00:22-06:00</lastmod>
   </url>
@@ -563,6 +685,22 @@
   </url>
   
   <url>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    <loc>/others/365miles/</loc>
+    <lastmod>2019-12-09T12:54:25-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/others/bookreading/</loc>
+    <lastmod>2019-12-09T11:59:07-06:00</lastmod>
+  </url>
+  
+  <url>
+>>>>>>> e2ae766308cde03cbdd6f340869c1c952b395778
+>>>>>>> 541ca29edc6082219719d4a06b35441f2753d573
     <loc>/others/cathysummary/</loc>
     <lastmod>2019-12-09T11:18:50-06:00</lastmod>
   </url>

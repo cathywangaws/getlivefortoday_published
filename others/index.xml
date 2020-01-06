@@ -6,12 +6,24 @@
     <description>Recent content in Others on Live for Today</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Sat, 04 Jan 2020 22:16:06 -0600</lastBuildDate>
+=======
+<<<<<<< HEAD
+    <lastBuildDate>Sat, 04 Jan 2020 22:16:06 -0600</lastBuildDate>
+=======
+    <lastBuildDate>Wed, 18 Dec 2019 14:19:49 -0600</lastBuildDate>
+>>>>>>> e2ae766308cde03cbdd6f340869c1c952b395778
+>>>>>>> 541ca29edc6082219719d4a06b35441f2753d573
     
 	<atom:link href="/others/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 541ca29edc6082219719d4a06b35441f2753d573
       <title>Reading 2020</title>
       <link>/others/reading2020/</link>
       <pubDate>Sat, 04 Jan 2020 22:16:06 -0600</pubDate>
@@ -46,6 +58,11 @@ In a new WeChat Tomato Group that are people who had reading a book for 14 days,
     </item>
     
     <item>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> e2ae766308cde03cbdd6f340869c1c952b395778
+>>>>>>> 541ca29edc6082219719d4a06b35441f2753d573
       <title>Vacation201810</title>
       <link>/others/vacation_201809/</link>
       <pubDate>Wed, 18 Dec 2019 14:19:49 -0600</pubDate>
@@ -158,6 +175,35 @@ Usually, the best time for taking picture is either morning or sunset time. We w
     </item>
     
     <item>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+      <title>365 Miles</title>
+      <link>/others/365miles/</link>
+      <pubDate>Mon, 09 Dec 2019 12:54:25 -0600</pubDate>
+      
+      <guid>/others/365miles/</guid>
+      <description>7/12/2019
+I wrote down what I ate for couple of weeks and I think they are pretty healthy food with low carb. However I still have fat belly. I am not sure what is wrong with my diet or exercise until yesterday!
+In a new WeChat Tomato Group that are people who had reading a book for 14 days, I found out the root cause.
+有氧无氧是指糖在运动中是无氧代谢还是有氧代谢。有氧代谢一个葡萄糖能产生38个ATP供细胞使用，过程比较慢。走路就是有氧运动。剧烈运动的时候是无氧代谢，快速产生ATP, 副产品就是乳酸
+So it means I should do intense exercise, like short distance and full speed running instead of walking for 30 mins.</description>
+    </item>
+    
+    <item>
+      <title>It is time to take reading to the next level</title>
+      <link>/others/bookreading/</link>
+      <pubDate>Mon, 09 Dec 2019 11:59:07 -0600</pubDate>
+      
+      <guid>/others/bookreading/</guid>
+      <description>I usually don&amp;rsquo;t read a book until this year. Now reading becomes a new hobby for me. It is time for me to take my reading to the next level. Now, imagine five years into the future. What might my life look like if I adopted a reading habit, starting today!
+ The goal of higher income is not just bigger piles of money. The goal of longer lives is not jsut extra time.</description>
+    </item>
+    
+    <item>
+>>>>>>> e2ae766308cde03cbdd6f340869c1c952b395778
+>>>>>>> 541ca29edc6082219719d4a06b35441f2753d573
       <title>CathySummary</title>
       <link>/others/cathysummary/</link>
       <pubDate>Mon, 09 Dec 2019 11:18:50 -0600</pubDate>
