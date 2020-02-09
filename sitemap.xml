@@ -4,6 +4,7 @@
   
   <url>
     <loc>/</loc>
+<<<<<<< HEAD
     <lastmod>2020-02-09T09:58:16-06:00</lastmod>
   </url>
   
@@ -59,6 +60,23 @@
   
   <url>
     <loc>/travel/us_fl_tampa/</loc>
+=======
+    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/us_fl_tampa/</loc>
+    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/</loc>
+>>>>>>> 9917d011f12a1daa2ae7e10b79036d1ee46a5b1c
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,11 +186,14 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>/travel/us_ca_sandiego/</loc>
     <lastmod>2019-12-19T08:49:33-06:00</lastmod>
   </url>
   
   <url>
+=======
+>>>>>>> 9917d011f12a1daa2ae7e10b79036d1ee46a5b1c
     <loc>/travel/us_nm_santafe/</loc>
     <lastmod>2019-12-18T16:03:38-06:00</lastmod>
   </url>

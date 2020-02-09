@@ -6,15 +6,25 @@
     <description>Recent content in Recipes on Live for Today</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Sun, 09 Feb 2020 09:07:19 -0600</lastBuildDate>
+=======
+    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
+>>>>>>> 9917d011f12a1daa2ae7e10b79036d1ee46a5b1c
     
 	<atom:link href="/recipes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>Dessert_Muffins</title>
       <link>/recipes/dessert_muffins/</link>
       <pubDate>Sun, 09 Feb 2020 09:07:19 -0600</pubDate>
+=======
+      <title>Pan Seared Scallops</title>
+      <link>/recipes/seafood_scallops/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+>>>>>>> 9917d011f12a1daa2ae7e10b79036d1ee46a5b1c
       
       <guid>/recipes/dessert_muffins/</guid>
       <description>Blueberry, Banana, and Oatmeal Muffin
@@ -23,6 +33,7 @@ Freeze them whole, and when you need to use them, microwave for 45 seconds and r
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Pan Seared Scallops</title>
       <link>/recipes/seafood_scallops/</link>
       <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
@@ -34,6 +45,8 @@ Simple and delicious! </description>
     </item>
     
     <item>
+=======
+>>>>>>> 9917d011f12a1daa2ae7e10b79036d1ee46a5b1c
       <title>ShaoMai</title>
       <link>/recipes/chinese_shaomai/</link>
       <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
