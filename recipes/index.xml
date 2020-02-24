@@ -6,10 +6,20 @@
     <description>Recent content in Recipes on Live for Today</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Feb 2020 09:07:19 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2020 17:23:16 -0600</lastBuildDate>
     
 	<atom:link href="/recipes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jambalaya</title>
+      <link>/recipes/seafood_jambalaya/</link>
+      <pubDate>Sun, 23 Feb 2020 17:23:16 -0600</pubDate>
+      
+      <guid>/recipes/seafood_jambalaya/</guid>
+      <description>Jambalaya is a quintessential one pot recipe with chicken, sausage, shrimp/crab leg and rice! Coming to you from New Orleans!
+An easy Jambalaya recipe is pure comfort food filled to the brim with flavour. The aromatic trinity of Cajun/Creole cooking: onion, celery, and bell peppers (capsicums), sautéed in andouille drippings with garlic, herbs and Cajun spices! Adding chicken and shrimp to this pot of tomato rice makes this one amazing meal in the comfort of your own homes!</description>
+    </item>
     
     <item>
       <title>Dessert_Muffins</title>
@@ -551,7 +561,7 @@ My friend made this cake with mung bean and red bean. Edit</description>
     </item>
     
     <item>
-      <title>Dessert_CheeseCake</title>
+      <title>Mini Cheesecake</title>
       <link>/recipes/dessert_cheesecake/</link>
       <pubDate>Thu, 12 Dec 2019 08:44:29 -0600</pubDate>
       

@@ -6,10 +6,22 @@
     <description>Recent content in Restaurants on Live for Today</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Feb 2020 09:00:38 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2020 18:00:45 -0600</lastBuildDate>
     
 	<atom:link href="/restaurant/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hana_Ramen</title>
+      <link>/restaurant/hana_ramen/</link>
+      <pubDate>Sun, 23 Feb 2020 18:00:45 -0600</pubDate>
+      
+      <guid>/restaurant/hana_ramen/</guid>
+      <description>Located in: McCarran Marketplace (Near LAS airport)
+Address: 5715 S Eastern Ave #104, Las Vegas, NV 89119
+Hana Ramen is a Yokohama-style Japanese ramen restaurant in Las Vegas. It is the only restaurant that serves authentic pork back fat ramen in Las Vegas. Their homemade broth is cooked for over 16 hours and everything is made from scratch guaranteeing you the freshest and most authentic Japanese ramen.
+Miso Ramen $10.</description>
+    </item>
     
     <item>
       <title>Cherry Circle Room</title>
