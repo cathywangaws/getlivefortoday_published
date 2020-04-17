@@ -6,10 +6,19 @@
     <description>Recent content in NationalParks on Live for Today</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2020 18:29:33 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/nationalparks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A RED-ROCK WONDERLAND - Arches National Park</title>
+      <link>/nationalparks/us_ut_arches/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/nationalparks/us_ut_arches/</guid>
+      <description>Discovering a landscape of contrasting colors, land forms and textures unlike any other places in the world. This is Arches National Park in Utah state which is a wonderland of red rocks and blue sky. We made a big mistake on our very first visit to Arches National Park: we visited on a sunny noon in July, when the temperature was pushing 100+ degrees Fahrenheit. However, we were smarter this time.</description>
+    </item>
     
     <item>
       <title>Red Rock Canyon National Conservation Area</title>
